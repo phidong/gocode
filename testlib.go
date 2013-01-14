@@ -5,6 +5,6 @@ import (
 	"fmt"
 )
 
-func test() {
+func Test() {
 	fmt.Println("Wellcome to my Repo!")
 }
