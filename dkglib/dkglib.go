@@ -5,6 +5,6 @@ import (
 	"fmt"
 )
 
-func Test {
+func Test() {
 	fmt.print("hello gkglib")
 }
