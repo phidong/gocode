@@ -6,5 +6,5 @@ import (
 )
 
 func Test() {
-	fmt.print("hello gkglib")
+	fmt.Print("hello gkglib")
 }
