@@ -1,5 +1,5 @@
 // testlib
-package main
+package gocode
 
 import (
 	"fmt"
